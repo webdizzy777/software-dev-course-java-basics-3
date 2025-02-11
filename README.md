@@ -68,7 +68,7 @@ to complete them.  The important thing is to try and learn from the experience.
 Add a new menu item to the JavaCafe class that allows the user to browse and add desserts to their order.  
 You will need to add a new method to the JavaCafe class to handle this new menu item. 
 
-> [!NOTE] Imposter Syndrome
+> [!NOTE]
 > As you take on this challenge, you will likely end up solving it in a way that involves
 > copying or referencing code that is already present.  You may even find that some of the
 > syntax or logic that you are copying is not code that you fully understand.  This is normal!
