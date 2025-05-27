@@ -27,16 +27,6 @@ described in the comments within the method.
 password must:
     - Be at least 8 characters long
 
-Once you have completed the exercises, run the tests in the `src/test/java/org/example/ConditionalExercisesTests.java`
-file to verify that your solutions are correct.   
-
-To run these tests, right-click on the `ConditionalExercisesTests` class and select `Run 'ConditionalExercisesTests'`.
-
-You will see the results of the tests in the `Run` tab at the bottom of the IDE.  Yellow means the test failed, green
-means the test passed. You should see all green checkmarks if your solutions are correct.
-
-![Unit Tests](doc-resources/unit-tests.png)
-
 ## Loop Exercises (Required)
 
 You will find the loop exercises in the `src/main/java/org/example/LoopExercises.java` file.
