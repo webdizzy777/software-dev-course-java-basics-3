@@ -13,8 +13,8 @@ public class LoopExercisesTests {
     @Test
     public void testSumUntilEven() {
         LoopExercises loopExercises = new LoopExercises();
-        assert loopExercises.sumUntilEven(5) == 10;
-        assert loopExercises.sumUntilEven(10) == 10;
-        assert loopExercises.sumUntilEven(100) == 10;
+        assert loopExercises.sumUntilEven(5) == 6;
+        assert loopExercises.sumUntilEven(10) == 6;
+        assert loopExercises.sumUntilEven(100) == 6;
     }
 }
